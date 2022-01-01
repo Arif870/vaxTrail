@@ -1,2 +1,9 @@
-![input] <img src="./input.png"/>
-![output] <img src="./output.png"/>
+# vaxTrail problem solving
+
+## Input
+
+<img src="./input.png"/>
+
+## Output
+
+<img src="./output.png"/>
