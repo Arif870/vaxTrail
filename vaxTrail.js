@@ -35,4 +35,4 @@ function vaxTrail(sample) {
   return Obj;
 }
 
-console.log(vaxTrail([{ name: "Arif", age: 45, temperature: 100 }]));
+
