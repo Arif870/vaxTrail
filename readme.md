@@ -2,8 +2,8 @@
 
 ## Input
 
-<img src="./input.png"/>
+<img src="./images/input.png"/>
 
 ## Output
 
-<img src="./output.png"/>
+<img src="./images/output.png"/>
